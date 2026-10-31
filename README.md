@@ -78,7 +78,6 @@ This project was developed collaboratively by:
 
 - [Muhammad Saad Siddiqui](https://github.com/saadsddiqi-cell)
 - [Syed Muhammad Zain Hassan](https://github.com/zainhassan5763-git)
-- [MUhammad Arqam](https://github.com/)
 
 Developed as part of academic project work
 at Sir Syed University of Engineering & Technology.
